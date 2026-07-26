@@ -51,4 +51,4 @@ exports.CourseController = CourseController = __decorate([
     (0, common_1.Controller)('course'),
     __metadata("design:paramtypes", [course_service_1.CourseService])
 ], CourseController);
-//# sourceMappingURL=course.controller.js.map
+
