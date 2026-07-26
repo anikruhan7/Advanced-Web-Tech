@@ -19,4 +19,3 @@ exports.AppModule = AppModule = __decorate([
         imports: [course_module_1.CourseModule, enrollment_module_1.EnrollmentModule, notification_module_1.NotificationModule],
     })
 ], AppModule);
-//# sourceMappingURL=app.module.js.map
