@@ -23,4 +23,3 @@ exports.CourseService = CourseService;
 exports.CourseService = CourseService = __decorate([
     (0, common_1.Injectable)()
 ], CourseService);
-//# sourceMappingURL=course.service.js.map
