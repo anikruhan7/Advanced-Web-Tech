@@ -20,4 +20,3 @@ exports.CourseModule = CourseModule = __decorate([
         exports: [course_service_1.CourseService]
     })
 ], CourseModule);
-//# sourceMappingURL=course.module.js.map
