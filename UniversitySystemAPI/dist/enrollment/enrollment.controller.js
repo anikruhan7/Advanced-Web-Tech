@@ -45,4 +45,3 @@ exports.EnrollmentController = EnrollmentController = __decorate([
     (0, common_1.Controller)('enrollment'),
     __metadata("design:paramtypes", [enrollment_service_1.EnrollmentService])
 ], EnrollmentController);
-//# sourceMappingURL=enrollment.controller.js.map
