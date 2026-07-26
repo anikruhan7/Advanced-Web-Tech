@@ -42,4 +42,3 @@ exports.EnrollmentService = EnrollmentService = __decorate([
     __metadata("design:paramtypes", [course_service_1.CourseService,
         notification_service_1.NotificationService])
 ], EnrollmentService);
-//# sourceMappingURL=enrollment.service.js.map
