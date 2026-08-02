@@ -47,7 +47,7 @@ export class CourseController {
         cb(null, `${Date.now()}-${file.originalname}`);
       }
     }),
-    limits: { fileSize: 2097152 }, // 2MB
+    limits: { fileSize: 2097152 }, 
     fileFilter: (req, file, cb) => {
       if (file.originalname.match(/^.*\.(jpg|jpeg|png|pdf)$/)) {
         cb(null, true);
